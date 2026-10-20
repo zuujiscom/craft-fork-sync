@@ -1,0 +1,38 @@
+name: Sync forks
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # every 2 h, ~2 billed min each = ~750 of the 2,000 free private minutes/month
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Only report what would move"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # only for STATUS.md in this repo; the forks use SYNC_TOKEN
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fast-forward forks to green upstream main
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_TOKEN }}
+        run: python3 sync.py --status STATUS.md ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Commit status if it changed
+        if: always() && !inputs.dry_run
+        run: |
+          git add STATUS.md
+          git diff --cached --quiet && exit 0
+          git -c user.name=zuujiscom -c user.email=zuujis@gmail.com commit -q -m "Update sync status"
+          git push -q
