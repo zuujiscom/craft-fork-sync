@@ -2,7 +2,7 @@ name: Sync forks
 
 on:
   schedule:
-    - cron: "17 */2 * * *"   # every 2 h, ~2 billed min each = ~750 of the 2,000 free private minutes/month
+    - cron: "*/15 * * * *"   # public repo: standard runners are free
   workflow_dispatch:
     inputs:
       dry_run:

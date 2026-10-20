@@ -1,6 +1,6 @@
 # craft-fork-sync
 
-Every 2 hours (private repo: ~750 of the 2,000 free Actions minutes a month), moves `main` of each zuujiscom fork in `repos.txt` forward to the newest
+Every 15 minutes (public repo, so Actions minutes are free), moves `main` of each zuujiscom fork in `repos.txt` forward to the newest
 [storytold](https://github.com/storytold) `main` commit whose CI is green.
 
 **Green** means the commit has at least one check, every check finished as success, skipped
