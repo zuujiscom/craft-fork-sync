@@ -1,12 +1,8 @@
 # craft-fork-sync
 
-Every 15 minutes (public repo, so Actions minutes are free), moves `main` of each zuujiscom fork in `repos.txt` forward to the newest
-[storytold](https://github.com/storytold) `main` commit whose CI is green.
+Keeps the zuujiscom forks of the [storytold](https://github.com/storytold) repos in
+`repos.txt` up to date. Every 15 minutes it runs
+[green-fork-sync](https://github.com/zuujiscom/green-fork-sync), which moves each fork's
+`main` to the newest upstream commit whose CI checks all passed.
 
-**Green** means the commit has at least one check, every check finished as success, skipped
-or neutral, and nothing failed, was cancelled or is still running. Only commits that were
-the tip of upstream `main` count (first-parent history, not commits from merged PR
-branches), and a commit must be at least 10 minutes old so all its workflows have started.
-
-Forks only ever fast-forward. If a fork's `main` has commits upstream doesn't have, it is
-left alone and reported. Results are in [STATUS.md](STATUS.md) and in each run's log.
+Results are in [STATUS.md](STATUS.md) and in each run's summary.

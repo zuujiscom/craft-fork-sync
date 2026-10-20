@@ -25,9 +25,14 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Fast-forward forks to green upstream main
-        env:
-          GH_TOKEN: ${{ secrets.SYNC_TOKEN }}
-        run: python3 sync.py --status STATUS.md ${{ inputs.dry_run && '--dry-run' || '' }}
+        uses: zuujiscom/green-fork-sync@v1
+        with:
+          token: ${{ secrets.SYNC_TOKEN }}
+          upstream-owner: storytold
+          fork-owner: zuujiscom
+          repos-file: repos.txt
+          dry-run: ${{ inputs.dry_run && 'true' || 'false' }}
+          status-file: STATUS.md
 
       - name: Commit status if it changed
         if: always() && !inputs.dry_run
