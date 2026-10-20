@@ -2,7 +2,7 @@ name: Sync forks
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # public repo: standard runners are free
+    - cron: "7,22,37,52 * * * *"   # every 15 min, off the busy :00/:15/:30/:45 marks
   workflow_dispatch:
     inputs:
       dry_run:
