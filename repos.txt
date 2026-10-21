@@ -2,6 +2,7 @@ cadcraft
 craft-ai-integrations
 craft-common-actions
 craft-fonts
+craft-i18n
 craft-libs
 deckcraft
 designcraft
