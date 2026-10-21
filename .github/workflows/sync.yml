@@ -43,6 +43,25 @@ jobs:
             docs/*
             LICENSE*
 
+      # storytold's SonarCloud workflows report to storytold's organization and need its token, so
+      # they only fail here; zuujiscom/craft-sonar scans the forks instead. Switch off any that a
+      # sync brought in.
+      - name: Switch off storytold's SonarCloud workflows
+        if: always() && !inputs.dry_run
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_TOKEN }}
+        run: |
+          grep -v '^\s*\(#\|$\)' repos.txt | while read -r repo; do
+            gh api "repos/zuujiscom/$repo/actions/workflows?per_page=100" \
+              -q '.workflows[] | select(.path | test("sonar"; "i")) | "\(.id) \(.state) \(.path)"' |
+            while read -r id state path; do
+              # Already-off ones too: a no-op, but it shows every run that the token still may.
+              gh api -X PUT "repos/zuujiscom/$repo/actions/workflows/$id/disable" --silent \
+                || { echo "::warning::$repo: couldn't switch off $path (SYNC_TOKEN needs Actions read and write)"; continue; }
+              if [ "$state" = active ]; then echo "$repo: switched off $path"; fi
+            done
+          done
+
       - name: Commit status if it changed
         if: always() && !inputs.dry_run
         run: |
