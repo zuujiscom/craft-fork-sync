@@ -33,6 +33,8 @@ jobs:
           repos-file: repos.txt
           dry-run: ${{ inputs.dry_run && 'true' || 'false' }}
           status-file: STATUS.md
+          ignore-events: schedule    # nightly jobs on main's tip shouldn't un-green a commit that passed on push
+          ignore-checks: "*FreeBSD*"  # 1.5-3 h jobs, usually cancelled by the next push
 
       - name: Commit status if it changed
         if: always() && !inputs.dry_run
