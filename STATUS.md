@@ -3,7 +3,7 @@
 | repo | zuujiscom main | last result |
 |---|---|---|
 | [cadcraft](https://github.com/zuujiscom/cadcraft) | `54d96834` | up to date |
-| [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `ed86e444` | waiting: no newer green commit |
+| [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `870e9604` | moved 1 commits to 870e9604 |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `cab3588f` | waiting: no newer green commit |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `43a99440` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `` | ERROR {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/git/refs#update-a-reference","status":"403"}gh: Resource not accessible by personal access token |
@@ -16,7 +16,7 @@
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `8ae67c55` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `3dc3b955` | up to date |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `b1bf1cf0` | waiting: no newer green commit |
-| [photocraft](https://github.com/zuujiscom/photocraft) | `43b14883` | moved 45 commits to 43b14883 |
+| [photocraft](https://github.com/zuujiscom/photocraft) | `43b14883` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `30ef8306` | up to date |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `e99dea21` | waiting: no newer green commit |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `c02ceef6` | moved 1 commits to c02ceef6 |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `14a70449` | moved 14 commits to 14a70449 |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `c02ceef6` | waiting: no newer green commit |
