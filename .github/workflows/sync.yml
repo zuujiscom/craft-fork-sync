@@ -53,12 +53,11 @@ jobs:
         run: |
           grep -v '^\s*\(#\|$\)' repos.txt | while read -r repo; do
             gh api "repos/zuujiscom/$repo/actions/workflows?per_page=100" \
-              -q '.workflows[] | select(.path | test("sonar"; "i")) | "\(.id) \(.state) \(.path)"' |
-            while read -r id state path; do
-              # Already-off ones too: a no-op, but it shows every run that the token still may.
+              -q '.workflows[] | select(.state == "active" and (.path | test("sonar"; "i"))) | "\(.id) \(.path)"' |
+            while read -r id path; do
               gh api -X PUT "repos/zuujiscom/$repo/actions/workflows/$id/disable" --silent \
-                || { echo "::warning::$repo: couldn't switch off $path (SYNC_TOKEN needs Actions read and write)"; continue; }
-              if [ "$state" = active ]; then echo "$repo: switched off $path"; fi
+                && echo "$repo: switched off $path" \
+                || echo "::warning::$repo: couldn't switch off $path (SYNC_TOKEN needs Actions read and write)"
             done
           done
 
