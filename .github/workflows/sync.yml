@@ -35,6 +35,11 @@ jobs:
           status-file: STATUS.md
           ignore-events: schedule    # nightly jobs on main's tip shouldn't un-green a commit that passed on push
           ignore-checks: "*FreeBSD*"  # 1.5-3 h jobs, usually cancelled by the next push
+          docs-paths: |               # commits touching only these get no CI; take them along
+            *.md
+            .coderabbit.yaml
+            docs/*
+            LICENSE*
 
       - name: Commit status if it changed
         if: always() && !inputs.dry_run
