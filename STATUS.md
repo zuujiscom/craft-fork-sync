@@ -4,7 +4,7 @@
 |---|---|---|
 | [cadcraft](https://github.com/zuujiscom/cadcraft) | `0cf3bdea` | waiting: no newer green commit |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `0c20e18c` | up to date |
-| [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `d664cb69` | up to date |
+| [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `d664cb69` | waiting: no newer green commit |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `bfcbf714` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `d538a213` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `1f805378` | up to date |
