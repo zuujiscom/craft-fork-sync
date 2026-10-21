@@ -34,7 +34,9 @@ jobs:
           dry-run: ${{ inputs.dry_run && 'true' || 'false' }}
           status-file: STATUS.md
           ignore-events: schedule    # nightly jobs on main's tip shouldn't un-green a commit that passed on push
-          ignore-checks: "*FreeBSD*"  # 1.5-3 h jobs, usually cancelled by the next push
+          # FreeBSD: 1.5-3 h jobs, usually cancelled by the next push. SonarCloud: storytold's own scans,
+          # which the forks don't run (zuujiscom/craft-sonar scans them into our own organization).
+          ignore-checks: "*FreeBSD*, *SonarCloud*"
           docs-paths: |               # commits touching only these get no CI; take them along
             *.md
             .coderabbit.yaml
