@@ -13,7 +13,7 @@
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `9a51a05e` | waiting: no newer green commit |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `9ec80bf2` | up to date |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `dd525c93` | up to date |
-| [gridcraft](https://github.com/zuujiscom/gridcraft) | `d1db71d0` | moved 4 commits to d1db71d0 |
+| [gridcraft](https://github.com/zuujiscom/gridcraft) | `d1db71d0` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `c66014e6` | up to date |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `d5047aa4` | waiting: no newer green commit |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `8f09d122` | waiting: no newer green commit |
