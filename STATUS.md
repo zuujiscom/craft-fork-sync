@@ -6,10 +6,10 @@
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `870e9604` | up to date |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `cab3588f` | waiting: no newer green commit |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `43a99440` | up to date |
-| [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `beaf6c90` | moved 2 commits to beaf6c90 |
+| [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `beaf6c90` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `ce896255` | waiting: no newer green commit |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `128cb0b8` | up to date |
-| [designcraft](https://github.com/zuujiscom/designcraft) | `3b985e38` | up to date |
+| [designcraft](https://github.com/zuujiscom/designcraft) | `3b985e38` | waiting: no newer green commit |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `f37f20ff` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `a86897dc` | up to date |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `45901fcc` | up to date |
