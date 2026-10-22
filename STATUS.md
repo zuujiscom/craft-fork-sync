@@ -4,7 +4,7 @@
 |---|---|---|
 | [cadcraft](https://github.com/zuujiscom/cadcraft) | `477eec50` | waiting: no newer green commit |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `870e9604` | up to date |
-| [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `a4acae8e` | up to date |
+| [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `a4acae8e` | waiting: no newer green commit |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `43a99440` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `554df2c4` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `ffe7f8fc` | up to date |
@@ -18,5 +18,5 @@
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `80b7d215` | waiting: no newer green commit |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `8f09d122` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `b1466e45` | waiting: no newer green commit |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `def14fc8` | waiting: no newer green commit |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `30d1948f` | moved 6 commits to 30d1948f |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `00bc6a4b` | up to date |
