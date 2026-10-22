@@ -18,5 +18,5 @@
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `80b7d215` | up to date |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `1104b6f2` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `b1466e45` | up to date |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `cee30f05` | moved 15 commits to cee30f05 |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `cee30f05` | up to date |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `00bc6a4b` | up to date |
