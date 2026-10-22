@@ -11,12 +11,12 @@
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `4a1d27a2` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `5ce92b6d` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `9a51a05e` | up to date |
-| [figcraft](https://github.com/zuujiscom/figcraft) | `5fa58630` | moved 2 commits to 5fa58630 |
-| [filmcraft](https://github.com/zuujiscom/filmcraft) | `dd525c93` | moved 2 commits to dd525c93 |
+| [figcraft](https://github.com/zuujiscom/figcraft) | `9ec80bf2` | moved 5 commits to 9ec80bf2 |
+| [filmcraft](https://github.com/zuujiscom/filmcraft) | `dd525c93` | up to date |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `a1c84547` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `c66014e6` | up to date |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `88dad98d` | waiting: no newer green commit |
-| [photocraft](https://github.com/zuujiscom/photocraft) | `2438d380` | moved 38 commits to 2438d380 |
+| [photocraft](https://github.com/zuujiscom/photocraft) | `2438d380` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `b1466e45` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `385f1588` | waiting: no newer green commit |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `00bc6a4b` | moved 2 commits to 00bc6a4b |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `00bc6a4b` | up to date |
