@@ -7,7 +7,7 @@
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `9e423343` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `fff559f5` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `2c95a6d6` | up to date |
-| [craft-libs](https://github.com/zuujiscom/craft-libs) | `bfb116cc` | moved 7 commits to bfb116cc |
+| [craft-libs](https://github.com/zuujiscom/craft-libs) | `bfb116cc` | up to date |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `a58bdbc7` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `348a8a4d` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `bc6eaa65` | waiting: no newer green commit |
@@ -16,7 +16,7 @@
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `b8771d51` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `98702b5c` | up to date |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `a2ec27b4` | up to date |
-| [photocraft](https://github.com/zuujiscom/photocraft) | `28f3c18c` | moved 3 commits to 28f3c18c |
+| [photocraft](https://github.com/zuujiscom/photocraft) | `28f3c18c` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `6b84a4f0` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `ece7f6b9` | up to date |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `67a0e723` | waiting: no newer green commit |
