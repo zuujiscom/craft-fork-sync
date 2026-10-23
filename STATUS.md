@@ -12,11 +12,11 @@
 | [designcraft](https://github.com/zuujiscom/designcraft) | `5e8ef678` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `15b8a916` | waiting: no newer green commit |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `80f91632` | up to date |
-| [filmcraft](https://github.com/zuujiscom/filmcraft) | `2860e4bd` | moved 8 commits to 2860e4bd |
+| [filmcraft](https://github.com/zuujiscom/filmcraft) | `2860e4bd` | waiting: no newer green commit |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `ac8da7d4` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `c66014e6` | waiting: no newer green commit |
-| [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `adea2c90` | up to date |
-| [photocraft](https://github.com/zuujiscom/photocraft) | `9852baa4` | moved 2 commits to 9852baa4 |
+| [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `adea2c90` | waiting: no newer green commit |
+| [photocraft](https://github.com/zuujiscom/photocraft) | `9852baa4` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `e85a4801` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `30d1948f` | waiting: no newer green commit |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `9130181a` | up to date |
