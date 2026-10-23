@@ -12,7 +12,7 @@
 | [designcraft](https://github.com/zuujiscom/designcraft) | `5e8ef678` | waiting: no newer green commit |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `9581b53c` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `80f91632` | up to date |
-| [filmcraft](https://github.com/zuujiscom/filmcraft) | `d3801e2d` | up to date |
+| [filmcraft](https://github.com/zuujiscom/filmcraft) | `d3801e2d` | waiting: no newer green commit |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `ac8da7d4` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `c66014e6` | waiting: no newer green commit |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `0dc77fe4` | up to date |
