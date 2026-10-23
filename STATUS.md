@@ -2,7 +2,7 @@
 
 | repo | zuujiscom main | last result |
 |---|---|---|
-| [cadcraft](https://github.com/zuujiscom/cadcraft) | `1977a493` | moved 4 commits to 1977a493 |
+| [cadcraft](https://github.com/zuujiscom/cadcraft) | `1977a493` | up to date |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `1a02afd6` | up to date |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `13f14e17` | waiting: no newer green commit |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `2481a8a3` | up to date |
@@ -19,4 +19,4 @@
 | [photocraft](https://github.com/zuujiscom/photocraft) | `ff473881` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `52471b37` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `a537a1b5` | waiting: no newer green commit |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `c799fdbc` | waiting: no newer green commit |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `3a4770ef` | moved 9 commits to 3a4770ef |
