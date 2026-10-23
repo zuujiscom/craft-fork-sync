@@ -3,11 +3,11 @@
 | repo | zuujiscom main | last result |
 |---|---|---|
 | [cadcraft](https://github.com/zuujiscom/cadcraft) | `1977a493` | up to date |
-| [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `d9142168` | up to date |
+| [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `d9142168` | waiting: no newer green commit |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `bfec7e2a` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `2481a8a3` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `aa36bd87` | up to date |
-| [craft-libs](https://github.com/zuujiscom/craft-libs) | `49190884` | waiting: no newer green commit |
+| [craft-libs](https://github.com/zuujiscom/craft-libs) | `6cefd467` | moved 1 commits to 6cefd467 |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `b47195fe` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `5e8ef678` | waiting: no newer green commit |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `9581b53c` | waiting: no newer green commit |
