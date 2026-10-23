@@ -19,4 +19,4 @@
 | [photocraft](https://github.com/zuujiscom/photocraft) | `ff473881` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `52471b37` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `a537a1b5` | waiting: no newer green commit |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `3a4770ef` | moved 9 commits to 3a4770ef |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `3a4770ef` | up to date |
