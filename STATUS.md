@@ -19,4 +19,4 @@
 | [photocraft](https://github.com/zuujiscom/photocraft) | `28f3c18c` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `6b84a4f0` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `3aa98550` | waiting: no newer green commit |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `14001aee` | moved 1 commits to 14001aee |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `14001aee` | up to date |
