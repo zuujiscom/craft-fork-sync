@@ -4,9 +4,9 @@
 |---|---|---|
 | [cadcraft](https://github.com/zuujiscom/cadcraft) | `fcfdf330` | up to date |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `e2c23c1c` | up to date |
-| [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `9e423343` | up to date |
+| [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `9e423343` | waiting: no newer green commit |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `fff559f5` | up to date |
-| [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `ad2b898e` | up to date |
+| [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `ed5cc5e0` | moved 3 commits to ed5cc5e0 |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `6e7f2851` | up to date |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `7be391a1` | waiting: no newer green commit |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `b595f1b7` | up to date |
