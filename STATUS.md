@@ -18,5 +18,5 @@
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `a7801dc8` | up to date |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `14a4ab9b` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `aa74bffa` | up to date |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `8bf090b2` | moved 1 commits to 8bf090b2 |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `8bf090b2` | up to date |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `9d1067fc` | up to date |
