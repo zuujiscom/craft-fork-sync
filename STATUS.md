@@ -6,17 +6,17 @@
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `e2c23c1c` | up to date |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `9e423343` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `fff559f5` | up to date |
-| [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `38ebf742` | waiting: no newer green commit |
+| [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `041c0b35` | moved 4 commits to 041c0b35 |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `2ab6049d` | up to date |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `7be391a1` | waiting: no newer green commit |
-| [designcraft](https://github.com/zuujiscom/designcraft) | `5def4a8c` | moved 1 commits to 5def4a8c |
+| [designcraft](https://github.com/zuujiscom/designcraft) | `45ed6cfc` | moved 45 commits to 45ed6cfc |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `eb510878` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `10702311` | up to date |
-| [filmcraft](https://github.com/zuujiscom/filmcraft) | `d5ead4ba` | moved 9 commits to d5ead4ba |
+| [filmcraft](https://github.com/zuujiscom/filmcraft) | `bfc23840` | moved 10 commits to bfc23840 |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `3099df93` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `23f54803` | waiting: no newer green commit |
-| [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `fc1372a6` | moved 2 commits to fc1372a6 |
+| [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `fc1372a6` | waiting: no newer green commit |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `1c3db2e5` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `aa74bffa` | up to date |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `ad7cb44a` | waiting: no newer green commit |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `65e1dadc` | moved 3 commits to 65e1dadc |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `b092a521` | moved 4 commits to b092a521 |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `e6c4fb2c` | moved 2 commits to e6c4fb2c |
