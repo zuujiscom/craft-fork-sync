@@ -8,17 +8,14 @@
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `fff559f5` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `e067222c` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `13d766e0` | up to date |
-| [deckcraft](https://github.com/zuujiscom/deckcraft) | `f86928d0` | moved 2 commits to f86928d0 |
+| [deckcraft](https://github.com/zuujiscom/deckcraft) | `f86928d0` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `c313c534` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `eb510878` | up to date |
-| [figcraft](https://github.com/zuujiscom/figcraft) | `43a255fe` | moved 1 commits to 43a255fe |
-| [filmcraft](https://github.com/zuujiscom/filmcraft) | `057f4600` | moved 2 commits to 057f4600 |
-| [gridcraft](https://github.com/zuujiscom/gridcraft) | `` | ERROR GET repos/storytold/gridcraft/commits/f284f6a8256aced973d41c9e171f0a80e4002067/status: {
-  "message": "Server Error"
-}
-gh: Server Error |
+| [figcraft](https://github.com/zuujiscom/figcraft) | `10702311` | moved 10 commits to 10702311 |
+| [filmcraft](https://github.com/zuujiscom/filmcraft) | `48c7a272` | moved 2 commits to 48c7a272 |
+| [gridcraft](https://github.com/zuujiscom/gridcraft) | `f284f6a8` | moved 1 commits to f284f6a8 |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `23f54803` | up to date |
-| [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `c894928e` | moved 1 commits to c894928e |
+| [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `c894928e` | up to date |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `1c3db2e5` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `93800e07` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `75dacb4f` | up to date |
