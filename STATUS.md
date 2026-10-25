@@ -13,7 +13,7 @@
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `99190488` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `9f788753` | up to date |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `bfc23840` | up to date |
-| [gridcraft](https://github.com/zuujiscom/gridcraft) | `e1a12fa3` | moved 1 commits to e1a12fa3 |
+| [gridcraft](https://github.com/zuujiscom/gridcraft) | `e1a12fa3` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `38f8d250` | up to date |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `418ac6a2` | up to date |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `c65b5d25` | up to date |
