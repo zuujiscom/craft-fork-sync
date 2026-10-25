@@ -7,8 +7,8 @@
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `2b4eb2c6` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `ed5cc5e0` | up to date |
-| [craft-libs](https://github.com/zuujiscom/craft-libs) | `b9ba47f5` | moved 22 commits to b9ba47f5 |
-| [deckcraft](https://github.com/zuujiscom/deckcraft) | `7d4c4905` | moved 1 commits to 7d4c4905 |
+| [craft-libs](https://github.com/zuujiscom/craft-libs) | `b9ba47f5` | up to date |
+| [deckcraft](https://github.com/zuujiscom/deckcraft) | `7d4c4905` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `5024d61c` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `362474a8` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `3fc005c7` | up to date |
