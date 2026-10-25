@@ -19,4 +19,4 @@
 | [photocraft](https://github.com/zuujiscom/photocraft) | `528491f9` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `e0951aec` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `f792c635` | up to date |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `14891616` | moved 1 commits to 14891616 |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `ea5780d2` | moved 4 commits to ea5780d2 |
