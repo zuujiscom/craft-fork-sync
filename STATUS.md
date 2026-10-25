@@ -7,7 +7,7 @@
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `13491f81` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `fff559f5` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `ed5cc5e0` | up to date |
-| [craft-libs](https://github.com/zuujiscom/craft-libs) | `869928d2` | waiting: no newer green commit |
+| [craft-libs](https://github.com/zuujiscom/craft-libs) | `2869b8cc` | moved 2 commits to 2869b8cc |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `6a1c7354` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `5971d463` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `99190488` | up to date |
