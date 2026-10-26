@@ -8,15 +8,15 @@
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `40cddb99` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `9ff71949` | up to date |
-| [deckcraft](https://github.com/zuujiscom/deckcraft) | `aaf6c1c3` | up to date |
+| [deckcraft](https://github.com/zuujiscom/deckcraft) | `4bb73d5d` | moved 1 commits to 4bb73d5d |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `ed8aabd1` | up to date |
-| [effectcraft](https://github.com/zuujiscom/effectcraft) | `6867f331` | up to date |
+| [effectcraft](https://github.com/zuujiscom/effectcraft) | `6867f331` | waiting: no newer green commit |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `740d1173` | up to date |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `8fda2f23` | up to date |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `d8c5f588` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `bb08a697` | up to date |
-| [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `d28d047a` | up to date |
-| [photocraft](https://github.com/zuujiscom/photocraft) | `d641b96a` | moved 15 commits to d641b96a |
+| [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `d28d047a` | waiting: no newer green commit |
+| [photocraft](https://github.com/zuujiscom/photocraft) | `d641b96a` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `7dc56a4d` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `e2a82801` | up to date |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `6a2b520f` | up to date |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `d859c673` | moved 1 commits to d859c673 |
