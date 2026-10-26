@@ -19,4 +19,4 @@
 | [photocraft](https://github.com/zuujiscom/photocraft) | `a0ce166a` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `7dc56a4d` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `e2a82801` | up to date |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `02120c84` | moved 1 commits to 02120c84 |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `02120c84` | up to date |
