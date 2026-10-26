@@ -18,5 +18,5 @@
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `64e0868b` | up to date |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `59cb4c49` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `7dc56a4d` | up to date |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `1a84e180` | waiting: no newer green commit |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `9fc09feb` | moved 11 commits to 9fc09feb |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `6a2b520f` | up to date |
