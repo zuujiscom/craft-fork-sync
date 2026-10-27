@@ -2,12 +2,12 @@
 
 | repo | zuujiscom main | last result |
 |---|---|---|
-| [cadcraft](https://github.com/zuujiscom/cadcraft) | `26da98e3` | moved 12 commits to 26da98e3 |
+| [cadcraft](https://github.com/zuujiscom/cadcraft) | `26da98e3` | up to date |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `6f707866` | up to date |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `86bc2ce4` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `40cddb99` | up to date |
-| [craft-libs](https://github.com/zuujiscom/craft-libs) | `6a66b95c` | up to date |
+| [craft-libs](https://github.com/zuujiscom/craft-libs) | `6a66b95c` | waiting: no newer green commit |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `88c2ceff` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `1abeda44` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `dd12ed8f` | up to date |
