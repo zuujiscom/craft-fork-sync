@@ -2,7 +2,7 @@
 
 | repo | zuujiscom main | last result |
 |---|---|---|
-| [cadcraft](https://github.com/zuujiscom/cadcraft) | `2721aa89` | moved 1 commits to 2721aa89 |
+| [cadcraft](https://github.com/zuujiscom/cadcraft) | `2721aa89` | up to date |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `6f707866` | up to date |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `8bb4e5ab` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
