@@ -9,14 +9,14 @@
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `40cddb99` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `bd97cb76` | up to date |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `ee875abf` | up to date |
-| [designcraft](https://github.com/zuujiscom/designcraft) | `50650f74` | moved 1 commits to 50650f74 |
+| [designcraft](https://github.com/zuujiscom/designcraft) | `50650f74` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `01c904b0` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `43af145a` | up to date |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `10d626cc` | up to date |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `45f5ab18` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `662df66f` | up to date |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `1dd2737b` | up to date |
-| [photocraft](https://github.com/zuujiscom/photocraft) | `7ac7b8b1` | moved 1 commits to 7ac7b8b1 |
+| [photocraft](https://github.com/zuujiscom/photocraft) | `7ac7b8b1` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `60087e0f` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `eb0e99a5` | up to date |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `2cf1d6c7` | up to date |
