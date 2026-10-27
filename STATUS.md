@@ -6,7 +6,7 @@
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `60b84aed` | up to date |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `8bb4e5ab` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
-| [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `e94dab3a` | moved 2 commits to e94dab3a |
+| [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `d2a2074e` | moved 16 commits to d2a2074e |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `b380d163` | up to date |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `55e5ee56` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `2d8207ed` | up to date |
