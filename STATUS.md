@@ -19,4 +19,4 @@
 | [photocraft](https://github.com/zuujiscom/photocraft) | `52f338e2` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `e82c1689` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `9997ff02` | up to date |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `c4fafc21` | moved 19 commits to c4fafc21 |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `c4fafc21` | up to date |
