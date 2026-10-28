@@ -8,15 +8,15 @@
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `19358491` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `b4afa6d2` | up to date |
-| [deckcraft](https://github.com/zuujiscom/deckcraft) | `29f0f777` | moved 2 commits to 29f0f777 |
-| [designcraft](https://github.com/zuujiscom/designcraft) | `e46dcd95` | waiting: no newer green commit |
-| [effectcraft](https://github.com/zuujiscom/effectcraft) | `fa9cf471` | up to date |
-| [figcraft](https://github.com/zuujiscom/figcraft) | `90054a89` | up to date |
+| [deckcraft](https://github.com/zuujiscom/deckcraft) | `29f0f777` | up to date |
+| [designcraft](https://github.com/zuujiscom/designcraft) | `7da69c16` | moved 2 commits to 7da69c16 |
+| [effectcraft](https://github.com/zuujiscom/effectcraft) | `fa9cf471` | waiting: no newer green commit |
+| [figcraft](https://github.com/zuujiscom/figcraft) | `90054a89` | waiting: no newer green commit |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `c49efe07` | waiting: no newer green commit |
-| [gridcraft](https://github.com/zuujiscom/gridcraft) | `43284377` | moved 1 commits to 43284377 |
+| [gridcraft](https://github.com/zuujiscom/gridcraft) | `43284377` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `59a5d00c` | waiting: no newer green commit |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `20eebc1c` | waiting: no newer green commit |
-| [photocraft](https://github.com/zuujiscom/photocraft) | `1f7fc0f5` | up to date |
-| [soundcraft](https://github.com/zuujiscom/soundcraft) | `c6befe57` | moved 2 commits to c6befe57 |
+| [photocraft](https://github.com/zuujiscom/photocraft) | `1f7fc0f5` | waiting: no newer green commit |
+| [soundcraft](https://github.com/zuujiscom/soundcraft) | `c6befe57` | up to date |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `9997ff02` | waiting: no newer green commit |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `c4fafc21` | waiting: no newer green commit |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `3de6ff95` | moved 2 commits to 3de6ff95 |
