@@ -10,8 +10,8 @@
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `1a11a489` | up to date |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `f893f6af` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `855d6063` | up to date |
-| [effectcraft](https://github.com/zuujiscom/effectcraft) | `b9500148` | moved 41 commits to b9500148 |
-| [figcraft](https://github.com/zuujiscom/figcraft) | `4ae1b7c5` | moved 16 commits to 4ae1b7c5 |
+| [effectcraft](https://github.com/zuujiscom/effectcraft) | `bd4c68fc` | moved 10 commits to bd4c68fc |
+| [figcraft](https://github.com/zuujiscom/figcraft) | `da1cf8da` | moved 6 commits to da1cf8da |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `8d925e9d` | up to date |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `146161b4` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `77c0a6ad` | up to date |
