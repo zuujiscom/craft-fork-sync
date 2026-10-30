@@ -11,7 +11,7 @@
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `c4221b1a` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `ea08e4c2` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `ec7ced1f` | up to date |
-| [figcraft](https://github.com/zuujiscom/figcraft) | `b462a483` | moved 1 commits to b462a483 |
+| [figcraft](https://github.com/zuujiscom/figcraft) | `71323ee7` | moved 1 commits to 71323ee7 |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `fed0f42f` | up to date |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `75f7056e` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `5194cc20` | waiting: no newer green commit |
