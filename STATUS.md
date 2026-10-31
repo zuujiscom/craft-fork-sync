@@ -16,7 +16,7 @@
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `67e39fae` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `8aedfce0` | waiting: no newer green commit |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `1d1cbc4e` | waiting: no newer green commit |
-| [photocraft](https://github.com/zuujiscom/photocraft) | `422ca7be` | up to date |
+| [photocraft](https://github.com/zuujiscom/photocraft) | `422ca7be` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `444a7163` | up to date |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `01b498c4` | waiting: no newer green commit |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `403d8bc2` | moved 4 commits to 403d8bc2 |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `e6a5cd05` | up to date |
