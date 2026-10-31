@@ -2,14 +2,14 @@
 
 | repo | zuujiscom main | last result |
 |---|---|---|
-| [cadcraft](https://github.com/zuujiscom/cadcraft) | `660e15c9` | waiting: no newer green commit |
+| [cadcraft](https://github.com/zuujiscom/cadcraft) | `c6e49b17` | moved 1 commits to c6e49b17 |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `60b84aed` | waiting: no newer green commit |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `2b3fb9dc` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `19358491` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `4323a0f9` | up to date |
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `4ce29446` | up to date |
-| [designcraft](https://github.com/zuujiscom/designcraft) | `7e702032` | up to date |
+| [designcraft](https://github.com/zuujiscom/designcraft) | `7e702032` | waiting: no newer green commit |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `afa3c938` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `76f520ff` | up to date |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `94ceaa91` | up to date |
