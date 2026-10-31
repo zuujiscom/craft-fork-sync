@@ -2,7 +2,7 @@
 
 | repo | zuujiscom main | last result |
 |---|---|---|
-| [cadcraft](https://github.com/zuujiscom/cadcraft) | `931c0c71` | waiting: no newer green commit |
+| [cadcraft](https://github.com/zuujiscom/cadcraft) | `b6331c86` | moved 1 commits to b6331c86 |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `60b84aed` | waiting: no newer green commit |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `2b3fb9dc` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
@@ -11,12 +11,12 @@
 | [deckcraft](https://github.com/zuujiscom/deckcraft) | `a3fbf029` | up to date |
 | [designcraft](https://github.com/zuujiscom/designcraft) | `ea214dd4` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `9dd3193c` | up to date |
-| [figcraft](https://github.com/zuujiscom/figcraft) | `0abbe44c` | waiting: no newer green commit |
+| [figcraft](https://github.com/zuujiscom/figcraft) | `96dcb3ed` | moved 7 commits to 96dcb3ed |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `142fddc1` | up to date |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `67e39fae` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `8aedfce0` | waiting: no newer green commit |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `1d1cbc4e` | waiting: no newer green commit |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `422ca7be` | up to date |
-| [soundcraft](https://github.com/zuujiscom/soundcraft) | `4179cf88` | up to date |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `07580b66` | up to date |
-| [wordcraft](https://github.com/zuujiscom/wordcraft) | `c9349771` | moved 2 commits to c9349771 |
+| [soundcraft](https://github.com/zuujiscom/soundcraft) | `4179cf88` | waiting: no newer green commit |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `07580b66` | waiting: no newer green commit |
+| [wordcraft](https://github.com/zuujiscom/wordcraft) | `6dae5a1d` | moved 3 commits to 6dae5a1d |
