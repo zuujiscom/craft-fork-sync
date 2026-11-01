@@ -8,11 +8,11 @@
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `c533ae0f` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `f3b62ec6` | up to date |
-| [deckcraft](https://github.com/zuujiscom/deckcraft) | `ee39ff67` | up to date |
-| [designcraft](https://github.com/zuujiscom/designcraft) | `a288a87b` | moved 4 commits to a288a87b |
+| [deckcraft](https://github.com/zuujiscom/deckcraft) | `ee39ff67` | waiting: no newer green commit |
+| [designcraft](https://github.com/zuujiscom/designcraft) | `a288a87b` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `720c6711` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `bd920fc7` | up to date |
-| [filmcraft](https://github.com/zuujiscom/filmcraft) | `1346b523` | moved 10 commits to 1346b523 |
+| [filmcraft](https://github.com/zuujiscom/filmcraft) | `e492d9e2` | moved 7 commits to e492d9e2 |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `f5030432` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `07301cbd` | waiting: no newer green commit |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `41652972` | waiting: no newer green commit |
