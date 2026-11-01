@@ -4,7 +4,7 @@
 |---|---|---|
 | [cadcraft](https://github.com/zuujiscom/cadcraft) | `b6331c86` | waiting: no newer green commit |
 | [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `60b84aed` | waiting: no newer green commit |
-| [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `09f920c3` | waiting: no newer green commit |
+| [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `84ad8817` | moved 1 commits to 84ad8817 |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `cac2cf0c` | up to date |
 | [craft-libs](https://github.com/zuujiscom/craft-libs) | `487b4d42` | waiting: no newer green commit |
@@ -18,5 +18,5 @@
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `1d1cbc4e` | waiting: no newer green commit |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `799e1296` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `444a7163` | waiting: no newer green commit |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `433ddb59` | moved 9 commits to 433ddb59 |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `433ddb59` | waiting: no newer green commit |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `6e0f7e79` | up to date |
