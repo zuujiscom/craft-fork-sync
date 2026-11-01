@@ -3,7 +3,7 @@
 | repo | zuujiscom main | last result |
 |---|---|---|
 | [cadcraft](https://github.com/zuujiscom/cadcraft) | `2034d689` | up to date |
-| [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `950a8e17` | moved 5 commits to 950a8e17 |
+| [craft-ai-integrations](https://github.com/zuujiscom/craft-ai-integrations) | `950a8e17` | up to date |
 | [craft-common-actions](https://github.com/zuujiscom/craft-common-actions) | `44a7db40` | up to date |
 | [craft-fonts](https://github.com/zuujiscom/craft-fonts) | `aced4137` | up to date |
 | [craft-i18n](https://github.com/zuujiscom/craft-i18n) | `efb1127a` | up to date |
