@@ -17,6 +17,6 @@
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `07301cbd` | waiting: no newer green commit |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `0cba87ae` | up to date |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `2df9f807` | waiting: no newer green commit |
-| [soundcraft](https://github.com/zuujiscom/soundcraft) | `db51dd17` | up to date |
+| [soundcraft](https://github.com/zuujiscom/soundcraft) | `db51dd17` | waiting: no newer green commit |
 | [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `639c9d6c` | up to date |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `fd7f6621` | up to date |
