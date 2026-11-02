@@ -6,4 +6,5 @@ Keeps the zuujiscom forks of the [storytold](https://github.com/storytold) repos
 [green-fork-sync](https://github.com/zuujiscom/green-fork-sync), which moves each fork's
 `main` to the newest upstream commit whose CI checks all passed.
 
-Results are in [STATUS.md](STATUS.md) and in each run's summary.
+Results are in each run's summary and in [STATUS.md](STATUS.md), which is updated at most every
+6 hours (straight away when an error appears or clears).

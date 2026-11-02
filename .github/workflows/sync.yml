@@ -61,10 +61,20 @@ jobs:
             done
           done
 
+      # Every push to a public repo brings a wave of bot clones, and the forks move dozens of times
+      # a day, so STATUS.md is committed at most every 6 h; an error appearing or clearing goes in
+      # at once. Each run's summary always has the current table.
       - name: Commit status if it changed
         if: always() && !inputs.dry_run
         run: |
           git add STATUS.md
           git diff --cached --quiet && exit 0
+          errors_now=$(grep -c ERROR STATUS.md || true)
+          errors_before=$(git show HEAD:STATUS.md | grep -c ERROR || true)
+          last=$(git log -1 --format=%ct -- STATUS.md)
+          if [ "$errors_now" = "$errors_before" ] && [ $(( $(date +%s) - ${last:-0} )) -lt 21600 ]; then
+            echo "STATUS.md changed; it's committed at most every 6 h (see this run's summary)"
+            exit 0
+          fi
           git -c user.name=zuujiscom -c user.email=zuujis@gmail.com commit -q -m "Update sync status"
           git push -q
