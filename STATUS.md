@@ -13,10 +13,10 @@
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `ad7abfa5` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `f9b56936` | up to date |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `68919ed8` | up to date |
-| [gridcraft](https://github.com/zuujiscom/gridcraft) | `25881a8e` | moved 1 commits to 25881a8e |
+| [gridcraft](https://github.com/zuujiscom/gridcraft) | `25881a8e` | up to date |
 | [lightcraft](https://github.com/zuujiscom/lightcraft) | `0fad22a2` | waiting: no newer green commit |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `d3384340` | up to date |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `2df9f807` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `8444edf0` | up to date |
-| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `f793c981` | waiting: no newer green commit |
+| [vectorcraft](https://github.com/zuujiscom/vectorcraft) | `cfb30d81` | moved 103 commits to cfb30d81 |
 | [wordcraft](https://github.com/zuujiscom/wordcraft) | `3e2c7940` | up to date |
