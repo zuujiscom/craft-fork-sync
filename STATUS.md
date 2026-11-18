@@ -14,10 +14,7 @@
 | [figcraft](https://github.com/zuujiscom/figcraft) | `acf0b14d` | waiting: no newer green commit |
 | [filmcraft](https://github.com/zuujiscom/filmcraft) | `6aa67684` | up to date |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `00e8f4fa` | up to date |
-| [lightcraft](https://github.com/zuujiscom/lightcraft) | `` | ERROR GET repos/storytold/lightcraft/commits?sha=main&per_page=40: {
-  "message": "Server Error"
-}
-gh: Server Error |
+| [lightcraft](https://github.com/zuujiscom/lightcraft) | `288924e6` | waiting: no newer green commit |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `9db6c9d9` | waiting: no newer green commit |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `01b79958` | waiting: no newer green commit |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `56d5c385` | up to date |
