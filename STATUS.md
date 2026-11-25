@@ -12,9 +12,9 @@
 | [designcraft](https://github.com/zuujiscom/designcraft) | `cdd650cc` | up to date |
 | [effectcraft](https://github.com/zuujiscom/effectcraft) | `59aed450` | up to date |
 | [figcraft](https://github.com/zuujiscom/figcraft) | `ef2a9eee` | up to date |
-| [filmcraft](https://github.com/zuujiscom/filmcraft) | `740adb32` | up to date |
+| [filmcraft](https://github.com/zuujiscom/filmcraft) | `2d1d1b69` | up to date |
 | [gridcraft](https://github.com/zuujiscom/gridcraft) | `33bb5930` | up to date |
-| [lightcraft](https://github.com/zuujiscom/lightcraft) | `ddc0eef3` | up to date |
+| [lightcraft](https://github.com/zuujiscom/lightcraft) | `ea033fbe` | up to date |
 | [pdfcraft](https://github.com/zuujiscom/pdfcraft) | `5cf56ee2` | waiting: no newer green commit |
 | [photocraft](https://github.com/zuujiscom/photocraft) | `e22facf4` | up to date |
 | [soundcraft](https://github.com/zuujiscom/soundcraft) | `768c0f97` | up to date |
